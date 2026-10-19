@@ -1,12 +1,17 @@
-## Hi there 👋
+# SpectralSense
 
-<!--
+We put the decision inside the camera. Small devices that look at a scene, decide whether something belongs there, and act, with no cloud round trip and no person watching a screen.
 
-**Here are some ideas to get you started:**
+Built in Holladay, Utah by a small team. [spectralsense.ai](https://www.spectralsense.ai)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## What we're working on
+
+- **WorkCheck** checks that the person at a gate is wearing what the site rules say, on the device, without identifying anyone.
+- **LookSense** reads the color and fabric of clothing with a spectral sensor and a phone.
+- **Tripwire** finds a small drone with passive sensors and puts a marker on it for a camera to track.
+
+## What's public here
+
+- [StepperLab](https://github.com/spectralsense-ai/StepperLab): a web control panel for a cheap stepper motor, served from an ESP32. We built it to point a camera and a laser; it's useful for a lot more than that. MIT.
+
+The product code stays private. If you're evaluating us and need to see it, ask: talk@spectralsense.ai.
